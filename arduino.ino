@@ -1,3 +1,7 @@
+"""
+  author : Leo Ly
+"""
+
 #include <FastLED.h>
 #include <string.h>
 #define LED_PIN     3
