@@ -2,7 +2,7 @@
 * FILENAME :        main.c            
 * DESCRIPTION :
 *       For Windows only
-*       This program sample pixels on Windows (from 10) screen, and sends the data out to serial comm
+*       This program samples pixels on Windows (from 10) screen, and sends the data out to serial comm
 * AUTHOR :    Leo Ly        START DATE :    
 *
 *H*/
